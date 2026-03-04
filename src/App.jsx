@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/productivity-assistant-app">
         <Navigation />
         <Routes>
           <Route path="/" element={currentUser ? <HomePage /> : <Navigate to="/login" />} />
