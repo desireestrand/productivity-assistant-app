@@ -33,7 +33,7 @@ I was primarily responsible for the **Authentication architecture** and the **Ev
 ### Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/desireestrand/productivity-assistant-app.git](https://github.com/desireestrand/productivity-assistant-app.git)
+   git clone https://github.com/desireestrand/productivity-assistant-app.git
 
 2. Install dependencies:
     ```bash
