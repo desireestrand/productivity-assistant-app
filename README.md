@@ -35,13 +35,13 @@ I was primarily responsible for the **Authentication architecture** and the **Ev
    ```bash
    git clone [https://github.com/desireestrand/productivity-assistant-app.git](https://github.com/desireestrand/productivity-assistant-app.git)
 
-    Install dependencies:
-    Bash
+2. Install dependencies:
+    ```bash
 
     npm install
 
-    Start the development server:
-    Bash
+3. Start the development server:
+    ```bash
 
     npm run dev
 
